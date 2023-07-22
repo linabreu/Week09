@@ -1,0 +1,14 @@
+
+
+// Custom.scss
+// Option A: Include all of Bootstrap
+$primary: #D5D96C; // set the $primary variable
+$secondary: #38A69B;
+$warning: #F2BE22;
+$success: #296CA6;
+$danger: #296CA6;
+
+
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
